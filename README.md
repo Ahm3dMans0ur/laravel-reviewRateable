@@ -4,7 +4,7 @@
 
 # Laravel ReviewRateable
 ReviewRateable system for laravel 5
-
+with comments and anonymous rating
 ## Installation
 
 First, pull in the package through Composer.
